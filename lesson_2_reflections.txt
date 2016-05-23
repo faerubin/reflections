@@ -1,0 +1,3 @@
+Initializing a repository:
+It's empty, no commits. 
+You need to do it because otherwise no git repository, duh.
